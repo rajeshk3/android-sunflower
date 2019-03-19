@@ -29,6 +29,8 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.samples.apps.sunflower.databinding.ActivityGardenBinding
 
+
+// rajesh
 class GardenActivity : AppCompatActivity() {
 
     private lateinit var drawerLayout: DrawerLayout
